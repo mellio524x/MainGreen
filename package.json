@@ -1,18 +1,16 @@
 {
   "name": "bgreener-main",
   "version": "1.0.0",
-  "description": "\u0000",
+  "description": "",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    
+    "build": "echo 'No build step defined'",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
 }
-
-

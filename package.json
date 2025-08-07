@@ -1,17 +1,12 @@
 {
   "name": "bgreener-main",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
+  "repository": "https://github.com/mellio524x/MainGreen.git",
+  "author": "mellio524x <melliott10@collin.edu>",
+  "license": "MIT",
   "scripts": {
     "build": "echo 'No build step defined'",
     "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "mellio524x <melliott10@collin.edu>",
-  "license": "ISC",
-  "repository": "https://github.com/mellio524x/MainGreen.git"
+  }
 }

@@ -11,6 +11,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "mellio524x <melliott10@collin.edu>",
+  "license": "ISC",
+  "repository": "https://github.com/mellio524x/MainGreen.git"
 }
